@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="StudentDetails" max_length="40" name="x_snc_srapp53_studentdetails" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="StudentName" max_length="40" name="studentname" type="string"/>
+        <element label="StudentSalary" max_length="40" name="studentsalary" type="float"/>
+    </element>
+</database>
